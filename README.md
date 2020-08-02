@@ -8,8 +8,9 @@
 <br />
 
 
-<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Coder GIF" height="275" width="500">
-<img align="right" src="https://wallpaperplay.com/walls/full/2/c/2/58072.jpg" alt="Coder GIF" height="25" width="500">
+<img align="right" src="https://wallpaperplay.com/walls/full/2/c/2/58072.jpg" alt="Coder GIF" height="25" width="450">
+<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Coder GIF" height="250" width="450">
+<img align="right" src="https://wallpaperplay.com/walls/full/2/c/2/58072.jpg" alt="Coder GIF" height="25" width="450">
 
 
 <div align="left">
