@@ -8,7 +8,7 @@
 <br />
 
 <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Coder GIF" height="250">
-<div>
+<div align="left">
   <h3 align="center">Tech Stack</h3>
   <br />
   <p align="center">
