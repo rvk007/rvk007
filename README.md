@@ -13,7 +13,7 @@
 <img align="right" src="https://wallpaperplay.com/walls/full/2/c/2/58072.jpg" alt="Coder GIF" height="25" width="450">
 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Coder GIF" height="250" width="450">
+  <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" alt="Coder GIF" height="250" width="450">
 </p>
 
   <h3 align="center">Tech Stack</h3>
