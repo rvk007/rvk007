@@ -28,6 +28,7 @@
   <p align="center">
     <img alt="PyTorch" width="160px" src="https://www.edureka.co/blog/wp-content/uploads/2018/10/Pytorch_logo.png" />&nbsp;&nbsp;&nbsp;
     <img alt="Tensorflow" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />&nbsp;&nbsp;&nbsp;
+    <img alt="Flask" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPAH3qo9P8WHLJbB1BEXoupDOH4YGosKoXQ&usqp=CAU" />&nbsp;&nbsp;&nbsp;
     <img alt="Bootstrap" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />&nbsp;&nbsp;&nbsp;
     <img alt="jQuery" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />&nbsp;&nbsp;&nbsp;
     <img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;&nbsp;&nbsp;
