@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    I am a Software Engineer who likes to work on projects related to Deep Learning. :sunglasses:<br />
+    I am a Software Engineer who likes to work on Deep Learning projects. :sunglasses:<br />
   </samp>
 </p>
 <br />
@@ -13,7 +13,7 @@
 <img align="right" src="https://wallpaperplay.com/walls/full/2/c/2/58072.jpg" alt="Coder GIF" height="25" width="450">
 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" alt="Coder GIF" height="250" width="450">
+  <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="Coder GIF" height="250" width="450">
 </p>
 
   <h3 align="center">Tech Stack</h3>
